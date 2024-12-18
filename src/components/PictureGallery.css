@@ -1,0 +1,25 @@
+.share-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkblue;
+  }
+  
+  img {
+    border-radius: 10px;
+  }
+  
